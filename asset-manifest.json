@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Music-palyer/static/css/main.1d7c97e3.css",
+    "main.js": "/Music-palyer/static/js/main.14fbc8e5.js",
+    "static/media/Itro.mp3": "/Music-palyer/static/media/Itro.69de18140fe0548e1889.mp3",
+    "static/media/Ramses.mp3": "/Music-palyer/static/media/Ramses.76dd21c1e10a80a62cc8.mp3",
+    "static/media/Clarx.mp3": "/Music-palyer/static/media/Clarx.90a3f7103303403b3263.mp3",
+    "static/media/Image.jpg": "/Music-palyer/static/media/Image.776cd01bb8e24cfad966.jpg",
+    "index.html": "/Music-palyer/index.html",
+    "main.1d7c97e3.css.map": "/Music-palyer/static/css/main.1d7c97e3.css.map",
+    "main.14fbc8e5.js.map": "/Music-palyer/static/js/main.14fbc8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7c97e3.css",
+    "static/js/main.14fbc8e5.js"
+  ]
+}
